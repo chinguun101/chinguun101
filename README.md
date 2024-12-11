@@ -4,9 +4,11 @@ I'm a passionate developer creating innovative solutions. Here are some of the p
 
 ## 🚀 Projects
 
-- **[Flight Deal Finder](https://github.com/chinguun101/flight-deal-finder)**: A Python app that finds the best flight deals using the Amadeus API and sends notifications via email, SMS, or WhatsApp.
+-**[Memoir AI: Personal Journaling Assistant](https://capstone-memoirai.vercel.app/)**: Website application that transcribes your audio journal and generate entry and image for more expressive exploration.
 
-- **[Stock Notification](https://github.com/chinguun101/stock-notification)**: Monitors stock price changes and sends alerts with relevant news articles using the Alpha Vantage and News APIs.
+- **[Flight Deal Finder Bot](https://github.com/chinguun101/flight-deal-finder)**: A Python app that finds the best flight deals using the Amadeus API and sends notifications via email, SMS, or WhatsApp.
+
+- **[Stock Notification Bot](https://github.com/chinguun101/stock-notification)**: Monitors stock price changes and sends alerts with relevant news articles using the Alpha Vantage and News APIs.
 
 - **[Tinder Swiping Bot](https://github.com/chinguun101/tinder-swiping-bot)**: Automates swiping on Tinder using Selenium WebDriver.
 
