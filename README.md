@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi there, I'm Chinguun Ganbaatar👋
 
-<!--
-**chinguun101/chinguun101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate developer creating innovative solutions. Here are some of the projects I've been working on:
 
-Here are some ideas to get you started:
+## 🚀 Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[Flight Deal Finder](https://github.com/chinguun101/flight-deal-finder)**: A Python app that finds the best flight deals using the Amadeus API and sends notifications via email, SMS, or WhatsApp.
+
+- **[Stock Notification](https://github.com/chinguun101/stock-notification)**: Monitors stock price changes and sends alerts with relevant news articles using the Alpha Vantage and News APIs.
+
+- **[Tinder Swiping Bot](https://github.com/chinguun101/tinder-swiping-bot)**: Automates swiping on Tinder using Selenium WebDriver.
+
+## 🌱 What I'm Learning
+
+- API integration and data analysis
+- LLM integration and application
+- Advanced Python techniques and automation
+
+## 📫 How to Reach Me
+
+- [LinkedIn](https://www.linkedin.com/in/yourprofile)
+- [Twitter](https://twitter.com/yourhandle)
+
+## ⚡ Fun Fact
+
+I love exploring new technologies and finding creative ways to solve problems. I have done viral marketing for 4 years.
+
+---
+
+Thanks for stopping by! Feel free to explore my repositories and reach out if you have any questions or collaboration ideas.
