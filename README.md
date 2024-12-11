@@ -4,7 +4,7 @@ I'm a passionate developer creating innovative solutions. Here are some of the p
 
 ## 🚀 Projects
 
--**[Memoir AI: Personal Journaling Assistant](https://capstone-memoirai.vercel.app/)**: Website application that transcribes your audio journal and generate entry and image for more expressive exploration.
+- **[Memoir AI](https://capstone-memoirai.vercel.app/)**: Journaling assistant that transcribes your audio journal and generate entry and image for more expressive exploration.
 
 - **[Flight Deal Finder Bot](https://github.com/chinguun101/flight-deal-finder)**: A Python app that finds the best flight deals using the Amadeus API and sends notifications via email, SMS, or WhatsApp.
 
