@@ -18,8 +18,8 @@ I'm a passionate developer creating innovative solutions. Here are some of the p
 
 ## 📫 How to Reach Me
 
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- [Twitter](https://twitter.com/yourhandle)
+- [LinkedIn](https://www.linkedin.com/in/chinguun-ganbaatar/)
+- [Twitter](https://x.com/cgchinguun)
 
 ## ⚡ Fun Fact
 
